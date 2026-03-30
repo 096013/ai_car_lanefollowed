@@ -1,5 +1,7 @@
 # ai_car_lanefollowed
 rasp pi 5+ picamera + tt_motor
+
+
 ipconfig
 arp –a
 ssh pi@172.20.10.XX
